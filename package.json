@@ -1,0 +1,31 @@
+ 
+
+{
+
+    "name": " prim4.js",
+
+    "version": "2.1.0",
+
+    "description": "-- AWESOMENESS --",
+
+    "main": " prim4.js",
+
+    "scripts": {
+
+      "start": "node prim4.js"
+
+    },
+
+    "dependencies": {
+
+        "discord.js": "^11.3.2"
+
+        },
+
+    "engines": {
+
+      "node": "8.4.0"
+
+    }
+
+  }
